@@ -101,4 +101,9 @@ https://wokwi.com/projects/333796264659386964    {
     [ "rgb3:COM", "rgb2:COM", "green", [ "v40.73", "h151.67" ] ],
     [ "rgb3:R", "rgb2:R", "green", [ "v56.51", "h153.74" ] ]
   ]
+  
 }
+
+
+
+https://wokwi.com/projects/333796264659386964
