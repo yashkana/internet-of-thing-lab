@@ -70,6 +70,11 @@ https://wokwi.com/projects/333796264659386964    {
       "top": -25.02,
       "left": 303.34,
       "attrs": { "value": "1000" }
+      
+      
+      
+      
+      https://wokwi.com/projects/333802336095830612<br>
     },
     { "type": "wokwi-rgb-led", "id": "rgb2", "top": -155.17, "left": -34.61, "attrs": {} },
     { "type": "wokwi-rgb-led", "id": "rgb3", "top": -120.49, "left": -199.91, "attrs": {} }
