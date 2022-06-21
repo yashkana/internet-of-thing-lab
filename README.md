@@ -44,3 +44,4 @@ https://wokwi.com/projects/333805648701555283<br>
 
 15.Servo motor controlled by push button: https://wokwi.com/projects/334980736128909908<br>
 16.Buzzer:https://wokwi.com/projects/335066633231925844<br>
+17.buzzer with pushbutton:https://wokwi.com/projects/335066633231925844<br>
