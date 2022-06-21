@@ -43,3 +43,4 @@ https://wokwi.com/projects/333805648701555283<br>
     Servo motor controlled by potentiometer: https://wokwi.com/projects/334978058200023635<br>
 
 15.Servo motor controlled by push button: https://wokwi.com/projects/334980736128909908<br>
+16.Buzzer:https://wokwi.com/projects/335066633231925844<br>
